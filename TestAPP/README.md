@@ -1,1 +1,0 @@
-В файле appsettings.json изменить строку подключения к БД для ключа "DefaultConnection" на значение для подключения к вашей базе PostgreSQL
